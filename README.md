@@ -15,7 +15,7 @@ This project investigates the relationship between occupations and sleep quality
 
 ## Visualizations and Graphs
 * **Bar Graph:** I created a bar graph to show the average stress level across 11 different occupations. <img width="990" height="590" alt="bar graph" src="https://github.com/user-attachments/assets/e1de8bbb-6102-4d2d-98bb-575cfa1bc5f0" />
-* **Boxplot:** I created a boxplot to show the distribution of sleep quality across the 1-10 stress scale, highlighting the range and outliers for each level. <img width="678" height="471" alt="boxplot" src="https://github.com/user-attachments/assets/4807400d-7f5c-4fbb-94d5-6d7791d02bb7" />
+* **Boxplot:** I created a boxplot to show the distribution of sleep quality, highlighting the range and outliers for each level. <img width="678" height="471" alt="boxplot" src="https://github.com/user-attachments/assets/4807400d-7f5c-4fbb-94d5-6d7791d02bb7" />
 
 ## Tools Used (Google Colab)
 * **Python**
